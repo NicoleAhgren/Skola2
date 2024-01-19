@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Kwd3shOiuYPqrPVGKsI8oAiKxf5btcLR7PLNlvBHqS2qg1b5zwjrTpo1D9V4aPImehi8Fgx0NzL0Vwi9Lwa1YQ==",
+  "dgSpecHash": "dshIJhREjVn6W5TM7nI2yVaO8Jzxi/5fbGMO+0Wcbd2CwrLRyhaAzxp4JP7i6xUNrYjU3dTxXeLzqxv3gOOqsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahgren.nicole\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\ahgren.nicole\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ahgren.nicole\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

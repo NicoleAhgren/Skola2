@@ -1,0 +1,148 @@
+{
+    "id": 199,
+    "name": "Fla Wizarmon",
+    "xAntibody": false,
+    "images": [
+        {
+            "href": "https://digi-api.com/images/digimon/w/Fla_Wizarmon.png",
+            "transparent": false
+        }
+    ],
+    "levels": [
+        {
+            "id": 6,
+            "level": "Armor"
+        },
+        {
+            "id": 3,
+            "level": "Adult"
+        }
+    ],
+    "types": [
+        {
+            "id": 28,
+            "type": "Demon Man"
+        }
+    ],
+    "attributes": [
+        {
+            "id": 4,
+            "attribute": "Virus"
+        }
+    ],
+    "fields": [
+        {
+            "id": 8,
+            "field": "Nightmare Soldiers",
+            "image": "https://digi-api.com/images/etc/fields/Nightmare Soldiers.png"
+        }
+    ],
+    "releaseDate": "2002",
+    "descriptions": [
+        {
+            "origin": "reference_book",
+            "language": "en_us",
+            "description": "A Demon Man Digimon that Armor Evolved with the \"Digimental of Courage\". It is full of confidence and shows its true face, the exact opposite of Wizarmon, who is shy and does not show its uncovered face. It wields two matchstick-like staffs, which further enhance the effectiveness of its fire sorcery (high-level programming language). Its Signature Move is \"Magic Ignition\". Its Special Move is changing its surroundings into a firestorm (Fire Cloud). "
+        },
+        {
+            "origin": "reference_book",
+            "language": "jap",
+            "description": "“勇気のデジメンタル”でアーマー進化した魔人型デジモン。恥ずかしがり屋で素顔を見せないウィザーモンと正反対に、自信に満ちた素顔を見せている。マッチ棒のようなツエを２本持ち、炎の魔術（高級プログラム言語）の効果をさらに高めている。得意技は『マジックイグニッション』。必殺技は、あたり一面を炎の嵐にかえる『ファイヤークラウド』。 "
+        }
+    ],
+    "skills": [
+        {
+            "id": 588,
+            "skill": "Magic Ignition",
+            "translation": "",
+            "description": " "
+        },
+        {
+            "id": 589,
+            "skill": "Fire Cloud",
+            "translation": "",
+            "description": "Changes its surroundings into a firestorm. "
+        }
+    ],
+    "priorEvolutions": [
+        {
+            "id": 934,
+            "digimon": "Bokomon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Bokomon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon934"
+        },
+        {
+            "id": 1135,
+            "digimon": "Pico Devimon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Pico_Devimon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon1135"
+        },
+        {
+            "id": 543,
+            "digimon": "Guilmon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Guilmon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon543"
+        },
+        {
+            "id": 412,
+            "digimon": "Tentomon",
+            "condition": "with or without the Digimental of Courage",
+            "image": "https://digi-api.com/images/digimon/w/Tentomon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon412"
+        },
+        {
+            "id": 1162,
+            "digimon": "Candmon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Candmon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon1162"
+        },
+        {
+            "id": 1140,
+            "digimon": "Wizarmon",
+            "condition": "with the Digimental of Courage",
+            "image": "https://digi-api.com/images/digimon/w/Wizarmon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon1140"
+        },
+        {
+            "id": 1073,
+            "digimon": "Wormmon",
+            "condition": "with or without the Digimental of Courage",
+            "image": "https://digi-api.com/images/digimon/w/Wormmon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon1073"
+        }
+    ],
+    "nextEvolutions": [
+        {
+            "id": 671,
+            "digimon": "Wisemon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Wisemon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon671"
+        },
+        {
+            "id": 1133,
+            "digimon": "Mistymon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Mistymon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon1133"
+        },
+        {
+            "id": 164,
+            "digimon": "Waru Monzaemon",
+            "condition": "",
+            "image": "https://digi-api.com/images/digimon/w/Waru_Monzaemon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon164"
+        },
+        {
+            "id": 1001,
+            "digimon": "Dinobeemon",
+            "condition": "with Centalmon",
+            "image": "https://digi-api.com/images/digimon/w/Dinobeemon.png",
+            "url": "https://digi-api.com/api/v1/digimon/Fla%20Wizarmon1001"
+        }
+    ]
+}

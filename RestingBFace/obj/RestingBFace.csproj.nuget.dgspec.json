@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {}
+    "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {
+    "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
+        "projectUniqueName": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
         "projectName": "RestingBFace",
-        "projectPath": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
+        "projectPath": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
         "packagesPath": "C:\\Users\\ahgren.nicole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\obj\\",
+        "outputPath": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
