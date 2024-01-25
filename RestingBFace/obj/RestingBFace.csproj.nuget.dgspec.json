@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {}
+    "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {
+    "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
+        "projectUniqueName": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
         "projectName": "RestingBFace",
-        "projectPath": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
+        "projectPath": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\RestingBFace.csproj",
         "packagesPath": "C:\\Users\\ahgren.nicole\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\obj\\",
+        "outputPath": "C:\\Users\\ahgren.nicole\\Documents\\Skola2\\RestingBFace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
